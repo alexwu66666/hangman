@@ -1,1 +1,3 @@
-# hangman
+hello, world!
+
+hello, github!
